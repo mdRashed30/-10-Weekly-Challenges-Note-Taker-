@@ -76,7 +76,7 @@ Steps to run application:
 
 ## Screenshots:
 
-![Note Taker](assest/screencapture-localhost-3001-notes-2023-06-05-20_44_37.png)
+![Note Taker](assest/Screenshot.png)
 
 ## links
 
