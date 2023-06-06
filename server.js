@@ -33,7 +33,7 @@ app.get("/api/notes", (req, res) => {
 })
 
 
-// Create New Notes
+// Create New Notes 
 
 app.post("/api/notes", (req, res) => {
 
@@ -62,7 +62,7 @@ app.post("/api/notes", (req, res) => {
     });
 });
 
-// Deletes selected note
+// Deletes selected note 
 
 app.delete("/api/notes/:id", (req, res) => {
     //filter method by ID, create a new array without that ID
