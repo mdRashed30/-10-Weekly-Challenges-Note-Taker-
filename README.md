@@ -82,7 +82,7 @@ Steps to run application:
 
 - [Github Repo](https://github.com/mdRashed30/-10-Weekly-Challenges-Note-Taker-)
 
-- [Deployed Page]()
+- [Deployed Page](https://whispering-sierra-44654.herokuapp.com/notes)
 
 ## acknowledgements :
 
