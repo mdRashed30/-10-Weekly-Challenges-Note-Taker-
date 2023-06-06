@@ -80,9 +80,9 @@ Steps to run application:
 
 ## links
 
-- [Github Repo](https://github.com/mdRashed30/06-Weekly-challenge-Weather-dashboard)
+- [Github Repo](https://github.com/mdRashed30/-10-Weekly-Challenges-Note-Taker-)
 
-- [Deployed Page](https://mdrashed30.github.io/06-Weekly-challenge-Weather-dashboard/)
+- [Deployed Page]()
 
 ## acknowledgements :
 
